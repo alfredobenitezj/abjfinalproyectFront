@@ -26,8 +26,8 @@ Contribuciones 🤝
 Contacto ✉  
 Si tienes alguna duda o comentario, no dudes en contactarme:  
 
-Correo: alfredobenitezjuanilla@gmail.com
-Linkedin:www.linkedin.com/in/alfredo-benitez
+Correo: alfredobenitezjuanilla@gmail.com  
+Linkedin:www.linkedin.com/in/alfredo-benitez  
 Próximas Funcionalidades 🌐  
 Integración de un back listo para soportar este front en typescript Express  
  Sistema de likes y favoritos.
