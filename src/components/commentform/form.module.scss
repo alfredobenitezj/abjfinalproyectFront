@@ -1,0 +1,17 @@
+@media screen and (min-width: 300px), (max-width: 1200px) {
+  .form {
+    background: url("../../../public/senbonsakura.jpg");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: "Electrolize", sans-serif;
+    color: black;
+    padding: 60px;
+    font-size: 40px;
+    align-content: center;
+  }
+  .button {
+    font-size: 10px;
+  }
+}

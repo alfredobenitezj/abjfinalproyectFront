@@ -1,0 +1,19 @@
+@media screen and (min-width: 300px), (max-width: 1200px) {
+  .list {
+    background: url("../../../public/comingsoon.jpg");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 60px;
+    font-size: 40px;
+    text-align: start;
+    color: whitesmoke;
+    background-color: #000;
+  }
+  .text {
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: "Electrolize", sans-serif;
+    color: whitesmoke;
+  }
+}

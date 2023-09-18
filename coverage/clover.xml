@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1692610701270" clover="3.2.0">
+  <project timestamp="1692610701270" name="All files">
+    <metrics statements="278" coveredstatements="116" conditionals="49" coveredconditionals="3" methods="77" coveredmethods="19" elements="404" coveredelements="138" complexity="0" loc="278" ncloc="278" packages="16" files="23" classes="23"/>
+    <package name="app">
+      <metrics statements="20" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="app.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/app/app.tsx">
+        <metrics statements="20" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.app.routes">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="app.routes.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/app.routes/app.routes.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.comment detail">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Commentdetail.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/comment detail/Commentdetail.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.commentform">
+      <metrics statements="21" coveredstatements="8" conditionals="7" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="commentform.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/commentform/commentform.tsx">
+        <metrics statements="21" coveredstatements="8" conditionals="7" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="32" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.footer">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="footer.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/footer/footer.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.header">
+      <metrics statements="21" coveredstatements="16" conditionals="6" coveredconditionals="3" methods="10" coveredmethods="2"/>
+      <file name="header.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/header/header.tsx">
+        <metrics statements="21" coveredstatements="16" conditionals="6" coveredconditionals="3" methods="10" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="60" count="1" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="components.home">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="home.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/home/home.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.list comement">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="list.comment.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/list comement/list.comment.tsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.login">
+      <metrics statements="20" coveredstatements="7" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="login.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/login/login.tsx">
+        <metrics statements="20" coveredstatements="7" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.menu">
+      <metrics statements="7" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="menu.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/menu/menu.tsx">
+        <metrics statements="7" coveredstatements="0" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="3"/>
+      </file>
+    </package>
+    <package name="components.register">
+      <metrics statements="16" coveredstatements="6" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="register.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/components/register/register.tsx">
+        <metrics statements="16" coveredstatements="6" conditionals="6" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="error">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="error.page.tsx" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/error/error.page.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="51" coveredstatements="16" conditionals="9" coveredconditionals="0" methods="17" coveredmethods="4"/>
+      <file name="use.comment.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/hooks/use.comment.ts">
+        <metrics statements="26" coveredstatements="7" conditionals="3" coveredconditionals="0" methods="11" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="53" count="2" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="use.users.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/hooks/use.users.ts">
+        <metrics statements="25" coveredstatements="9" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="reducers">
+      <metrics statements="47" coveredstatements="19" conditionals="3" coveredconditionals="0" methods="18" coveredmethods="0"/>
+      <file name="actionTypes.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/reducers/actionTypes.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="actionscreator.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/reducers/actionscreator.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="comment.slice.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/reducers/comment.slice.ts">
+        <metrics statements="12" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+      <file name="thunks.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/reducers/thunks.ts">
+        <metrics statements="17" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+      <file name="user.slice.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/reducers/user.slice.ts">
+        <metrics statements="11" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="43" count="4" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="47" coveredstatements="17" conditionals="7" coveredconditionals="0" methods="15" coveredmethods="5"/>
+      <file name="api.repository.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/services/api.repository.ts">
+        <metrics statements="18" coveredstatements="3" conditionals="3" coveredconditionals="0" methods="6" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+      <file name="comment.repository.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/services/comment.repository.ts">
+        <metrics statements="16" coveredstatements="13" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="31" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+      </file>
+      <file name="user.repository.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/services/user.repository.ts">
+        <metrics statements="13" coveredstatements="1" conditionals="1" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.ts" path="/Users/alfredobenitez/Desktop/PROYECTO FINAL /Proyect final front/src/store/store.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
